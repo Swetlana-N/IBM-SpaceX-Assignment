@@ -1,5 +1,6 @@
-# Winning Space Race with Data Science
-#### IBM-SpaceX Assignment
+# IBM SpaceX-Assignment
+#### Winning Space Race with Data Science
+
 
 
 
@@ -8,11 +9,6 @@ SpaceX is successful because their rocket launches are relatively inexpensive. S
 
 In this project, you will take the role of a data scientist working for a new rocket company - Space Y that would like to compete with SpaceX founded by Billionaire industrialist Allon Musk. My job is to determine the price of each launch. I did this by gathering information about SpaceX and creating dashboards for the team. I also determined if SpaceX will reuse the first stage. Instead of using rocket science to determine if the first stage will land successfully, I trained a machine learning model and use public information to predict if SpaceX will reuse the first stage.
 
-## Objective:
-The objective is very clear. I have to evaluate the viability of the new company Space Y to compete with Space X. 
-
-## Desirable answers:
-The best way to estimate the total cost for launches, by predicting successful landings of the first stage of rockets; and Where is the best place to make launches.
 
 ## Methodology : 
 1. Data Collection from 2 sources - 
